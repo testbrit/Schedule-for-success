@@ -1,4 +1,6 @@
 Plan work timetable
 ------------
-Watch video
-Review task
+ - Watch video
+ - Review task
+ - Attempt task
+ - Check back on video
