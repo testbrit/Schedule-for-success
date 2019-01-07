@@ -4,3 +4,5 @@ Plan work timetable
  - Review task
  - Attempt task
  - Check back on video
+ - Complete task
+ 
